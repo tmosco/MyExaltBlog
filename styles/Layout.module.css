@@ -1,0 +1,9 @@
+.container {
+  background-color: #eeeeee;
+  width: 1080px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+.main {
+  background-color: #e5e5e5;
+}
